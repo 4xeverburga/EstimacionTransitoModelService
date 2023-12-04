@@ -29,23 +29,28 @@ def estimationService():
 			}
 		],
 		"mensajes": [
-			{"id": "507f1f77bcf86cd799439014",
-			"mac_origen": "aa:aa:aa:aa:aa:aa",
-			"fuerza": "-50"
-			},
-			{"id": "507f1f77bcf86cd799439015",
-			"mac_origen": "aa:aa:aa:aa:aa:aa",
-			"fuerza": -52
-			},
-			{"id": "507f1f77bcf86cd799439016",
-			"mac_origen": "aa:aa:aa:aa:aa:aa",
-			"fuerza": -54
-			},
-			{"id": "507f1f77bcf86cd799439017",
-			"mac_origen": "aa:aa:aa:aa:aa:ab",
-			"fuerza": -30
-			}
-		]
+			[
+				{"id": "507f1f77bcf86cd799439014",
+				"mac_origen": "aa:aa:aa:aa:aa:aa",
+				"fuerza": "-50"
+				},
+				{"id": "507f1f77bcf86cd799439015",
+				"mac_origen": "aa:aa:aa:aa:aa:aa",
+				"fuerza": -52
+				},
+				{"id": "507f1f77bcf86cd799439016",
+				"mac_origen": "aa:aa:aa:aa:aa:aa",
+				"fuerza": -54
+				}
+			],
+			[
+				{"id": "507f1f77bcf86cd799439017",
+				"mac_origen": "aa:aa:aa:aa:aa:ab",
+				"fuerza": -30
+				}
+			]
+		],
+		"lapso_tiempo": 30
 	}
 	output de ejemplo:
 	{
@@ -58,6 +63,9 @@ def estimationService():
 	Consideraciones:
 	- De momento solo la id de las aristas es necesaria
 	- La id de los mensajes no es necesaria por ahora y puede ser no enviada
+	- La lista de mensajes está agrupada por mensajes con la misma mac_origen
+	- La fuerza de los mensajes es un número entero
+	- lapso_tiempo es un número entero de minutos
 
 	"""
 	post_data = request.get_json()
