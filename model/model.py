@@ -3,10 +3,16 @@ def main():
 	# import lda model from sotored_models/
 	lda_model = pickle.load(open('model/stored_models/lda.pkl', 'rb'))
 	# test a value
-	print(lda_model.predict([[-69]]))
+	print(lda_model.predict([[-33]]))
 	val_set = [(-33,0),(-33,0),(-33,0),(-34,0),(-69,1),(-68,1),(-70,1),(67,1),(-72,2),(-73,2),(-73,2),(-72,2)]
 	# calculate accuracy
-	
+	accuracy = 0
+	for val in val_set:
+		print(lda_model.predict([[val[0]]]))
+		if int(lda_model.predict([[val[0]]])[0]) == val[1]:
+			accuracy += 1
+	print('Accuracy: ', accuracy/len(val_set))
+
 if __name__ == '__main__':
 	#print base path 
 	import os
