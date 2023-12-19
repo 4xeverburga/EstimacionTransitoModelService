@@ -44,7 +44,6 @@ def load_separator(json_input):
 def load_separator_test():
 	#load json from feria2023.mensajes.json
 	json_input = json.load(open('model/feria2023.mensajes.json', 'r'))
-	print(json_input[0]['mac_origen'])
 	#delete the dicts that don't have a mac_origen
 	json_input = [x for x in json_input if 'mac_origen' in x]
 	# json_input is a list of dictionaries. I want to sort them by mac_origen first
@@ -52,7 +51,7 @@ def load_separator_test():
 	sorted(json_input, key=lambda k: k['mac_origen'])
 	loads = load_separator(json_input)
 	# print the number of loads
-	print(len(loads))
+	print("number of different macs: ",len(loads))
 	# classify the loads
 	res = classifier(loads)
 	# print the result
