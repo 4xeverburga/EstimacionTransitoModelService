@@ -1,0 +1,2094 @@
+[{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2038"
+  },
+  "mac_origen": "XiaomiCommun_f8:2c:88",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2039"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -28
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203a"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203b"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -81
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203c"
+  },
+  "mac_origen": "f6:aa:c9:c8:07:82",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203d"
+  },
+  "mac_origen": "f6:aa:c9:c8:07:82",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203e"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -33
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d203f"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -33
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2040"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2041"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -63
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2042"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -63
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2043"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -60
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2044"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -60
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2045"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2046"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2047"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2048"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2049"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -60
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204a"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -61
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -63
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -60
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -60
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204e"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d204f"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2050"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2051"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2052"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2053"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2054"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2055"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2056"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2057"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2058"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2059"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205a"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205e"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d205f"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2060"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2061"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2062"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2063"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2064"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2065"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2066"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2067"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2068"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2069"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206a"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206e"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d206f"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2070"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2071"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2072"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2073"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2074"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2075"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2076"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2077"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2078"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2079"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207a"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207e"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d207f"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2080"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2081"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -64
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2082"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -34
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2083"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -54
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2084"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2085"
+  },
+  "mac_origen": "f6:aa:c9:c8:07:82",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2086"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2087"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2088"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2089"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208a"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208b"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208c"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208d"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -73
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208e"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d208f"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -73
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2090"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2091"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2092"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -73
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2093"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -77
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2094"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2095"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2096"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2097"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -78
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2098"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -78
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2099"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209a"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209b"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -75
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209c"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209d"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209e"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d209f"
+  },
+  "mac_origen": "AzureWaveTec_4d:45:7d",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a0"
+  },
+  "mac_origen": "Intel_ad:fb:15",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a1"
+  },
+  "mac_origen": "AzureWaveTec_4d:45:7d",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a2"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -28
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a3"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a4"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -88
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a5"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a6"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -77
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a7"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a8"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20a9"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -59
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20aa"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ab"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -33
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ac"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -63
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ad"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ae"
+  },
+  "mac_origen": "4e:76:64:e6:d3:fa",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20af"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b0"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -58
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b1"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -32
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b2"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -58
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b3"
+  },
+  "mac_origen": "96:92:d9:2d:09:43",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b4"
+  },
+  "mac_origen": "Cisco_29:6b:60",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b5"
+  },
+  "mac_origen": "Xerox_00:00:00",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b6"
+  },
+  "mac_origen": "Intel_98:4a:0e",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b7"
+  },
+  "mac_origen": "c6:04:7a:99:f6:bb",
+  "fuerza_senial": -65
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b8"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20b9"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ba"
+  },
+  "mac_origen": "HuaweiTechno_58:bd:a0",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20bb"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20bc"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20bd"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20be"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20bf"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c0"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c1"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c2"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c3"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c4"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c5"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c6"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c7"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c8"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20c9"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ca"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -64
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20cb"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20cc"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20cd"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ce"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20cf"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d0"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d1"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d2"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d3"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d4"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d5"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d6"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d7"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d8"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20d9"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20da"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20db"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20dc"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20dd"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20de"
+  },
+  "mac_origen": "XiaomiCommun_30:36:c6",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20df"
+  },
+  "mac_origen": "c6:04:7a:99:f6:bb",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e0"
+  },
+  "mac_origen": "HuaweiTechno_58:b6:30",
+  "fuerza_senial": -88
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e1"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -81
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e2"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -81
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e3"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e4"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e5"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e6"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e7"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e8"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -86
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20e9"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ea"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20eb"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -81
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ec"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -83
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ed"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -78
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ee"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ef"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f0"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f1"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f2"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f3"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f4"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f5"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f6"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f7"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f8"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -76
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20f9"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20fa"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20fb"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -66
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20fc"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20fd"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20fe"
+  },
+  "mac_origen": "HuaweiTechno_58:bd:f0",
+  "fuerza_senial": -87
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d20ff"
+  },
+  "mac_origen": "HuaweiTechno_58:bc:f0",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2100"
+  },
+  "mac_origen": "HuaweiTechno_c2:3e:e0",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2101"
+  },
+  "mac_origen": "HuaweiTechno_c2:40:60",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2102"
+  },
+  "mac_origen": "HuaweiTechno_58:bd:f0",
+  "fuerza_senial": -89
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2103"
+  },
+  "mac_origen": "HuaweiTechno_c2:40:60",
+  "fuerza_senial": -83
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2104"
+  },
+  "mac_origen": "HuaweiTechno_c2:3e:e0",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2105"
+  },
+  "mac_origen": "HuaweiTechno_58:bc:f0",
+  "fuerza_senial": -88
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2106"
+  },
+  "mac_origen": "HuaweiTechno_c2:40:60",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2107"
+  },
+  "mac_origen": "HuaweiTechno_c2:3e:e0",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2108"
+  },
+  "mac_origen": "HuaweiTechno_58:bd:f0",
+  "fuerza_senial": -90
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2109"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -27
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210a"
+  },
+  "mac_origen": "4e:9b:52:64:eb:5c",
+  "fuerza_senial": -89
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -64
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -65
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210d"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -34
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210e"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d210f"
+  },
+  "fuerza_senial": -54
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2110"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2111"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2112"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2113"
+  },
+  "mac_origen": "96:8c:90:09:4f:d0",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2114"
+  },
+  "mac_origen": "96:8c:90:09:4f:d0",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2115"
+  },
+  "mac_origen": "c6:04:7a:99:f6:bb",
+  "fuerza_senial": -61
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2116"
+  },
+  "mac_origen": "4a:33:b9:c8:94:32",
+  "fuerza_senial": -62
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2117"
+  },
+  "mac_origen": "4a:33:b9:c8:94:32",
+  "fuerza_senial": -63
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2118"
+  },
+  "mac_origen": "4a:33:b9:c8:94:32",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2119"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211a"
+  },
+  "mac_origen": "LiteonTechno_35:e0:ef",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211b"
+  },
+  "mac_origen": "LiteonTechno_35:e0:ef",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211c"
+  },
+  "mac_origen": "96:8c:90:09:4f:d0",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211e"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -27
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d211f"
+  },
+  "mac_origen": "b6:37:89:b1:90:16",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2120"
+  },
+  "mac_origen": "b6:37:89:b1:90:16",
+  "fuerza_senial": -83
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2121"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2122"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2123"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2124"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -26
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2125"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -71
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2126"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -29
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2127"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2128"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2129"
+  },
+  "mac_origen": "Intel_4e:d4:91",
+  "fuerza_senial": -27
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212a"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212b"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212c"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212d"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212e"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d212f"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2130"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2131"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2132"
+  },
+  "mac_origen": "b6:c7:32:5b:8f:1c",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2133"
+  },
+  "fuerza_senial": -54
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2134"
+  },
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2135"
+  },
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2136"
+  },
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2137"
+  },
+  "mac_origen": "96:8c:90:09:4f:d0",
+  "fuerza_senial": -70
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2138"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2139"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213a"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213b"
+  },
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213c"
+  },
+  "mac_origen": "HewlettPacka_97:83:29",
+  "fuerza_senial": -56
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213d"
+  },
+  "mac_origen": "4a:cc:40:a5:3b:e2",
+  "fuerza_senial": -76
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213e"
+  },
+  "mac_origen": "4a:cc:40:a5:3b:e2",
+  "fuerza_senial": -78
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d213f"
+  },
+  "mac_origen": "4a:cc:40:a5:3b:e2",
+  "fuerza_senial": -76
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2140"
+  },
+  "mac_origen": "4a:cc:40:a5:3b:e2",
+  "fuerza_senial": -78
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2141"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2142"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2143"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -74
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2144"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2145"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -72
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2146"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2147"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -75
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2148"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": 0
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2149"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -73
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214a"
+  },
+  "mac_origen": "PaloAltoNetw_e3:c0:10",
+  "fuerza_senial": -75
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214b"
+  },
+  "mac_origen": "BilianElectr_73:e7:f0",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214c"
+  },
+  "mac_origen": "BilianElectr_73:e7:f0",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214d"
+  },
+  "mac_origen": "BilianElectr_73:e7:f0",
+  "fuerza_senial": -67
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214e"
+  },
+  "mac_origen": "BilianElectr_73:e7:f0",
+  "fuerza_senial": -69
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d214f"
+  },
+  "mac_origen": "BilianElectr_73:e7:f0",
+  "fuerza_senial": -68
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2150"
+  },
+  "mac_origen": "92:0b:97:1e:6e:29",
+  "fuerza_senial": -80
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2151"
+  },
+  "mac_origen": "66:67:7c:e2:f0:64",
+  "fuerza_senial": -86
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2152"
+  },
+  "mac_origen": "66:67:7c:e2:f0:64",
+  "fuerza_senial": -87
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2153"
+  },
+  "mac_origen": "92:0b:97:1e:6e:29",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2154"
+  },
+  "mac_origen": "92:0b:97:1e:6e:29",
+  "fuerza_senial": -86
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2155"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2156"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2157"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2158"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2159"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215a"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -83
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215b"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215c"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215d"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215e"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -85
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d215f"
+  },
+  "mac_origen": "5e:0d:df:57:94:5f",
+  "fuerza_senial": -86
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2160"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -84
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2161"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -82
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2162"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -83
+},
+{
+  "_id": {
+    "$oid": "656d954b6c29c9175a4d2163"
+  },
+  "mac_origen": "32:54:1b:8f:33:f3",
+  "fuerza_senial": -83
+}]
